@@ -1,0 +1,14 @@
+site:
+  title: "Shad Adman"
+
+server:
+  files:
+    dev:
+      contentRoot: "build/processedResources/js/main/public"
+      script: "build/kotlin-webpack/js/developmentExecutable/shadadman.js"
+      api: "build/libs/shadadman.jar"
+    prod:
+      script: "build/kotlin-webpack/js/productionExecutable/shadadman.js"
+      siteRoot: ".kobweb/site"
+
+  port: 8080
