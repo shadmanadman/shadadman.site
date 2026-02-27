@@ -2,6 +2,7 @@ package site.shadadman.components.sections
 
 import androidx.compose.runtime.*
 import com.varabyte.kobweb.browser.dom.ElementTarget
+import com.varabyte.kobweb.compose.css.TextAlign
 import com.varabyte.kobweb.compose.css.functions.clamp
 import com.varabyte.kobweb.compose.foundation.layout.Column
 import com.varabyte.kobweb.compose.foundation.layout.Row
@@ -22,6 +23,7 @@ import com.varabyte.kobweb.silk.components.overlay.Overlay
 import com.varabyte.kobweb.silk.components.overlay.OverlayVars
 import com.varabyte.kobweb.silk.components.overlay.PopupPlacement
 import com.varabyte.kobweb.silk.components.overlay.Tooltip
+import com.varabyte.kobweb.silk.components.text.SpanText
 import com.varabyte.kobweb.silk.style.CssStyle
 import com.varabyte.kobweb.silk.style.animation.Keyframes
 import com.varabyte.kobweb.silk.style.animation.toAnimation
@@ -29,9 +31,14 @@ import com.varabyte.kobweb.silk.style.base
 import com.varabyte.kobweb.silk.style.breakpoint.Breakpoint
 import com.varabyte.kobweb.silk.style.breakpoint.displayIfAtLeast
 import com.varabyte.kobweb.silk.style.breakpoint.displayUntil
+import com.varabyte.kobweb.silk.style.toAttrs
 import com.varabyte.kobweb.silk.style.toModifier
 import com.varabyte.kobweb.silk.theme.colors.ColorMode
 import org.jetbrains.compose.web.css.*
+import org.jetbrains.compose.web.dom.Div
+import site.shadadman.HeadlineTextStyle
+import site.shadadman.SubheadlineTextStyle
+import site.shadadman.TitleTextStyle
 import site.shadadman.components.widgets.IconButton
 import site.shadadman.toSitePalette
 
@@ -47,7 +54,11 @@ private fun NavLink(path: String, text: String) {
 @Composable
 private fun MenuItems() {
     NavLink("/", "Home")
-    NavLink("/about", "About")
+    NavLink("/resume", "WorkDairy")
+    NavLink("https://medium.com/@adman.shadman", "Medium")
+    NavLink("https://github.com/shadmanadman", "OpenSource")
+    NavLink("https://github.com/kmp-beyond-kotlin", "KMP_Beyond_Kotlin")
+    NavLink("/resume", "Resume")
 }
 
 @Composable
@@ -100,9 +111,19 @@ enum class SideMenuState {
 @Composable
 fun NavHeader() {
     Row(NavHeaderStyle.toModifier(), verticalAlignment = Alignment.CenterVertically) {
-        Link("https://kobweb.varabyte.com") {
-            // Block display overrides inline display of the <img> tag, so it calculates centering better
-            Image("/kobweb-logo.png", "Kobweb Logo", Modifier.height(2.cssRem).display(DisplayStyle.Block))
+
+        Div(TitleTextStyle.toAttrs()) {
+            SpanText(
+                "Shad Adman",
+                Modifier
+                    .fontFamily("Ubuntu", "sans-serif")
+                    .color(
+                        when (ColorMode.current) {
+                            ColorMode.LIGHT -> Colors.Black
+                            ColorMode.DARK -> Colors.White
+                        }
+                    )
+            )
         }
 
         Spacer()

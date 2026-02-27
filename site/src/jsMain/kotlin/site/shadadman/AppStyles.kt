@@ -32,10 +32,7 @@ fun initSiteStyles(ctx: InitSilkContext) {
 
     ctx.stylesheet.registerStyleBase("body") {
         Modifier
-            .fontFamily(
-                "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto", "Oxygen", "Ubuntu",
-                "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "sans-serif"
-            )
+            .fontFamily("sans-serif")
             .fontSize(18.px)
             .lineHeight(1.5)
     }
@@ -46,9 +43,16 @@ fun initSiteStyles(ctx: InitSilkContext) {
     }
 }
 
+val TitleTextStyle = CssStyle.base {
+    Modifier
+        .fontSize(9.cssRem)
+        .textAlign(TextAlign.Start)
+        .lineHeight(1.2) //1.5x doesn't look as good on very large text
+}
+
 val HeadlineTextStyle = CssStyle.base {
     Modifier
-        .fontSize(3.cssRem)
+        .fontSize(5.cssRem)
         .textAlign(TextAlign.Start)
         .lineHeight(1.2) //1.5x doesn't look as good on very large text
 }
