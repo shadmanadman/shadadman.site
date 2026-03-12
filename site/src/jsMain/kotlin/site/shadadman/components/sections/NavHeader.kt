@@ -55,7 +55,8 @@ private fun NavLink(path: String, text: String) {
 private fun MenuItems() {
     NavLink("/", "Home")
     NavLink("/resume", "WorkDairy")
-    NavLink("https://medium.com/@adman.shadman", "Medium")
+    NavLink("/videos","Videos")
+    NavLink("https://medium.com/@adman.shadman", "Articles")
     NavLink("https://github.com/shadmanadman", "OpenSource")
     NavLink("https://github.com/kmp-beyond-kotlin", "KMP_Beyond_Kotlin")
     NavLink("/resume", "Resume")

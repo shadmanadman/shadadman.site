@@ -120,7 +120,7 @@ fun HomePage() {
                 ) {
                     Div(SubheadlineTextStyle.toAttrs()) {
                         SpanText(
-                            "This individual fell in love with coding when introduced to C++ during his student years. I did a lot of work with Android & Kotlin Multiplatform. Currently I love embedding low level languages like C, Rust & Zig with Kotlin & talking to hardware. A long background with onDevice AI using TFLite & PyTorch Mobile. I worked with HealthTech, Digital Retail, Trading & iGaming domains.",
+                            "This individual fell in love with coding when introduced to C++ during his student years. I did a lot of work with Android & Kotlin Multiplatform. Currently in my free time I love embedding low level languages like C, Rust & Zig with Kotlin & talking to hardware. A long background with onDevice AI using TFLite & PyTorch Mobile. I worked with HealthTech, Digital Retail, Trading & iGaming domains.",
                             Modifier
                                 .fontSize(1.5.cssRem)
                                 .lineHeight(1.6)
