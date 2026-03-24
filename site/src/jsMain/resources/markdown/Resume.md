@@ -12,7 +12,10 @@ A seasoned Android Developer with twelve years of experience. What makes this in
 
 ## Work Experience
 #### Senior Android Engineer @ Bit24.cash - FullTime/Hybrid ----------> Feb 2026 - Present
-
+- Responsible for implementing new features
+- Squad based team with over 2 million active users
+- Responsible for migrating to KMP in order to target iOS & growing our users by an unimaginable number
+- Participating in hiring new engineers & interviews
 
 #### Kotlin Multiplatform Engineer @ SportsGameX - PartTime/Remote ------------> Apr 2025 - Dec 2025
 - MVI architecture combined with Precompose and Koin. Recomposition and State Management
