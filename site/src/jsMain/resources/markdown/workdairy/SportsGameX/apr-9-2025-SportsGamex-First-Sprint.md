@@ -1,4 +1,4 @@
-## apr-9-2025-SportsGamex-First-Spring
+## apr-9-2025-SportsGamex-First-Sprint
 
 I have to admit, the first spring was amazing, but in all of my jobs, the first spring has always been exciting and new.
 

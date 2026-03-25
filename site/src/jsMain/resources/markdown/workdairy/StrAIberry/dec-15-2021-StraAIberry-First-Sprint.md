@@ -1,4 +1,5 @@
-# dec-15-2021-StraAIberry-First-Spring
+# dec-15-2021-StraAIberry-First-Sprint
+
 This two weeks marked the beginning of an exciting journey at strAIberry, and I couldn’t be more happy. The team’s vision was clear: bring advanced dental health detection to everyday users through a mobile approach.
 The core idea revolves around a machine learning model capable of identifying dental issues like misalignment, gaps, or crowding. While they already had a working React Native mobile app (MWP), the real challenge was shifting the jaw detection process from the server to the device itself, a move that drastically reduces latency and server load.
 Here’s how it works:
