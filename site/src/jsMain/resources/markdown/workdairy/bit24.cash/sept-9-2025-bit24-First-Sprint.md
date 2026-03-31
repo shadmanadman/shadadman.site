@@ -1,4 +1,4 @@
-## nov-9-2025-bit24-First-Sprint
+## sept-9-2025-bit24-First-Sprint
 
 I alwayse loved the first sprint in all of my entire workline for two reason, first finaly you can starting with coding and second is meeting with my teammates.
 
