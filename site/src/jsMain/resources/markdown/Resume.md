@@ -14,7 +14,7 @@ A seasoned Android Developer with twelve years of experience. What makes this pe
 - Crypto exchange ecosystem with over 2 million active users
 - Responsible for implementing features in a squad based team, with each squad owning a specific area
 - Responsible for migrating to KMP in order to target iOS & growing our users by an unimaginable number
-- Responsible for CI/CD pipelines on the KMP side using GitLab Runner for deployments to Google Play & TestFlight.
+- Responsible for CI/CD pipelines on the KMP side using GitLab Runner for automated releases to Google Play & TestFlight.
 - Participating in hiring new engineers & interviews
 
 #### Kotlin Multiplatform Engineer @ SportsGameX - PartTime/Remote ------------> Apr 2025 - Aug 2025
