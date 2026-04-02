@@ -5,20 +5,21 @@ title: Resume
 
 # Summery
 
-A seasoned Android Developer with twelve years of experience. What makes this person special is he's ability to build lasting relationships, having client & colleges with 10 years of partnerships. Health tech, digital retail, trading, iGaming, embedding AI models for edge computing & talking to native are core domains of knowledge. Strong focus on improving mobile performance with Kotlin Multiplatform.
+A seasoned Android Developer with twelve years of experience. What makes this person special is he's ability to build lasting relationships, having client & colleges with 10 years of partnerships. Health tech, Digital Retail, Trading, iGaming, embedding AI models for edge computing & talking to native, are core domains of knowledge. Strong focus on improving mobile performance with Kotlin Multiplatform.
 
 ---
 
 ## Work Experience
 #### Senior Android Engineer @ Bit24.cash - FullTime/Hybrid ----------> Sept 2025 - Present
-- Responsible for implementing new features
-- Squad based team with over 2 million active users
+- Crypto exchange ecosystem with over 2 million active users
+- Responsible for implementing features in a squad based team, with each squad owning a specific area
 - Responsible for migrating to KMP in order to target iOS & growing our users by an unimaginable number
+- Responsible for CI/CD pipelines on the KMP side using GitLab Runner for deployments to Google Play & TestFlight.
 - Participating in hiring new engineers & interviews
 
 #### Kotlin Multiplatform Engineer @ SportsGameX - PartTime/Remote ------------> Apr 2025 - Aug 2025
 - MVI architecture combined with Precompose and Koin. Recomposition and State Management
-- Integrate an on-device AI model to assist users in buying/selling stocks on Android and iOS.
+- Integrate an on device AI model to assist users in buying/selling stocks.
 - Data visualization with TradingView on Android and iOS with a reusable KMP library. socker.io usage
 - Firebase notification, Crashlytics, and Analytics. Kermit and Kotzila for logging.
 - CI/CD pipeline with GitHub Actions for Google Play and TestFlight deployment.
