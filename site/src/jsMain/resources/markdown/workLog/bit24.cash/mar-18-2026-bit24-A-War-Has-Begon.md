@@ -10,21 +10,17 @@ censorship is the golden key to a strong dictatorship. As in the movie The Dicta
 
 
 
-People had to go a long distance to another country like Turkey or Iraq just for checking an email.
+People had to travel long distances to countries like Turkey or Iraq just to check an email, can you believe that in 2026? Families had no word from loved ones abroad, some had travelers who vanished from contact, leaving them in agony, unsure if they had arrived safely.
 
 
 
-I was so missing for work. Typing codes, my GitHub, my collages and those successful Gradle builds in Android Studio.
+I was missing my work so much, typing code, my GitHub, being with my colleagues, and seeing those successful Gradle builds in Android Studio.
 
 
 
-I can not think of another government that would do that to its people, not even Hitler would do such a thing. At the time in any countries that involving with war access to Internet was needed more then ever. 
+I cannot imagine any government doing this to its own people. Even during wartime, countries usually recognize that access to the internet is needed more than ever.
 
 
 
-One thing i could blame for current situation was 'shariat'. Religious especially Islam combined with politics ruined us, ruined our life's, destroyed our country and destroyed our future. I was once a good Muslim but know I absolutely hate that word with all of my heart. I despised by it. 
-
-
-
-
+One thing I can blame for the current situation is ‘Shariat.’ Religion, especially Islam, combined with politics has created this monsters that has ruined us, destroyed our lives, and devastated our country and futures. I was once a good Muslim, but now I absolutely hate that word with all my heart. I am filled with disgust by it.
 
