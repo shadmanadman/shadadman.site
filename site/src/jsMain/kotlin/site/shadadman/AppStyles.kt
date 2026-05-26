@@ -45,7 +45,7 @@ fun initSiteStyles(ctx: InitSilkContext) {
 
 val TitleTextStyle = CssStyle.base {
     Modifier
-        .fontSize(9.cssRem)
+        .fontSize(4.cssRem)
         .textAlign(TextAlign.Start)
         .lineHeight(1.2) //1.5x doesn't look as good on very large text
 }
