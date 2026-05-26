@@ -3,7 +3,7 @@ layout: .components.layouts.MarkdownLayout
 title: Resume
 ---
 
-# Summery
+# Summary
 
 A seasoned Android Developer with twelve years of experience. What makes this person special is he's ability to build lasting relationships, having client & colleges with 10 years of partnerships. Health tech, Digital Retail, Trading, iGaming, embedding AI models for edge computing & talking to native, are core domains of knowledge. Strong focus on improving mobile performance with Kotlin Multiplatform.
 
@@ -46,7 +46,7 @@ A seasoned Android Developer with twelve years of experience. What makes this pe
 - Leading a team of three Android Developers, code review, and Agile task management.
 - Improving algorithms for arbitrage, Limit Orders, and Stop-Loss Orders.
 
-#### Android Developer @ AlfaTechnology - FullTime/OnSite -------------> Dec 2014 - Jun 2015
+#### Lead Android Developer @ AlfaTechnology - FullTime/OnSite -------------> Dec 2014 - Jun 2015
 - Tracking cars with a custom GPS hardware on Google Maps with SIM telemetry.
 - Drawing custom polygons on Google Maps to visualize car travel distances and filtering vehicle travel.
 - Remotely lock, unlock, and start a car by sending commands to the GPS hardware.
