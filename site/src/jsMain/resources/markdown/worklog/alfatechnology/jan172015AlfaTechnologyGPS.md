@@ -1,9 +1,9 @@
 ---
 layout: .components.layouts.MarkdownLayout
-title: jan-17-2015-AlfaTechnology-GPS
+title: 17jan2015AlfaTechnologyGPS
 ---
 
-## jan-17-2015-AlfaTechnology-GPS
+ jan-17-2015-AlfaTechnology-GPS
 
 
 

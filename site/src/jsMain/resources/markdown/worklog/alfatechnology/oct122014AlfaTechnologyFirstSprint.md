@@ -1,9 +1,9 @@
 ---
 layout: .components.layouts.MarkdownLayout
-title: oct-12-2014-AlfaTechnology-First-Sprint
+title: oct122014AlfaTechnologyFirstSprint
 ---
 
-## oct-12-2014-AlfaTechnology-First-Sprint
+oct-12-2014-AlfaTechnology-First-Sprint
 
 This marks the beginning of an amazing era. This is my first official company based job. I have worked as a freelancer and will always return to it when needed. However, working with a professional team brings a new, exciting dimension to my job as a developer.
 
