@@ -58,7 +58,7 @@ private fun MenuItems() {
     NavLink("/videos","Videos")
     NavLink("https://medium.com/@adman.shadman", "Articles")
     NavLink("https://github.com/ShadAdman", "OpenSource")
-    NavLink("https://github.com/kmp-beyond-kotlin", "BeyondKotlin")
+    NavLink("https://github.com/BeyondKotlin", "BeyondKotlin")
     NavLink("/resume", "Resume")
 }
 
