@@ -33,7 +33,7 @@ fun initSiteStyles(ctx: InitSilkContext) {
     ctx.stylesheet.registerStyleBase("body") {
         Modifier
             .fontFamily("sans-serif")
-            .fontSize(18.px)
+            .fontSize(14.px)
             .lineHeight(1.5)
     }
 
