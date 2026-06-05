@@ -171,7 +171,7 @@ fun HomePage() {
         Column(
             HeroContentStyle.toModifier()
                 .align(if (breakpoint >= Breakpoint.MD) Alignment.CenterStart else Alignment.BottomStart),
-            verticalArrangement = Arrangement.Center,
+            verticalArrangement = Arrangement.Top,
             horizontalAlignment = Alignment.Start
         ) {
             Box(HeroTextStyle.toModifier()) {
